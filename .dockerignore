@@ -1,10 +1,5 @@
 **/node_modules
 
-/node_modules
-/storage/logs
-/storage/framework/cache
-/storage/framework/sessions
-/storage/framework/views
 /.phpunit.cache
 /public/manifest.json
 /public/hot
@@ -16,8 +11,4 @@
 .php_cs.cache
 .php-cs-fixer.cache
 
-
-docker-compose.yml
-
-# Jangan abaikan file .sh (agar docker/init.sh iku)
-!docker/*.sh
+*.sh

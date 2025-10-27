@@ -16,7 +16,7 @@
 .php_cs.cache
 .php-cs-fixer.cache
 
-.env
+
 docker-compose.yml
 
 # Jangan abaikan file .sh (agar docker/init.sh iku)

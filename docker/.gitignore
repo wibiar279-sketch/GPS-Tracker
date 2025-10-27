@@ -1,5 +1,5 @@
 .env
 docker-compose.yml
 
-# Jangan abaikan file .sh (agar docker/init.sh ikut)
+# Jangan abaikan file .sh (agar docker/init.sh ikut
 !docker/*.sh
